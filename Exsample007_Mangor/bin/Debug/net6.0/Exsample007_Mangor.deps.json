@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exsample007_Mangor/1.0.0": {
+        "runtime": {
+          "Exsample007_Mangor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exsample007_Mangor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

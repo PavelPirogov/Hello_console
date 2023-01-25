@@ -1,0 +1,15 @@
+G:\C#\Examples\Exsample007_Mangor\bin\Debug\net6.0\Exsample007_Mangor.exe
+G:\C#\Examples\Exsample007_Mangor\bin\Debug\net6.0\Exsample007_Mangor.deps.json
+G:\C#\Examples\Exsample007_Mangor\bin\Debug\net6.0\Exsample007_Mangor.runtimeconfig.json
+G:\C#\Examples\Exsample007_Mangor\bin\Debug\net6.0\Exsample007_Mangor.dll
+G:\C#\Examples\Exsample007_Mangor\bin\Debug\net6.0\Exsample007_Mangor.pdb
+G:\C#\Examples\Exsample007_Mangor\obj\Debug\net6.0\Exsample007_Mangor.csproj.AssemblyReference.cache
+G:\C#\Examples\Exsample007_Mangor\obj\Debug\net6.0\Exsample007_Mangor.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\Examples\Exsample007_Mangor\obj\Debug\net6.0\Exsample007_Mangor.AssemblyInfoInputs.cache
+G:\C#\Examples\Exsample007_Mangor\obj\Debug\net6.0\Exsample007_Mangor.AssemblyInfo.cs
+G:\C#\Examples\Exsample007_Mangor\obj\Debug\net6.0\Exsample007_Mangor.csproj.CoreCompileInputs.cache
+G:\C#\Examples\Exsample007_Mangor\obj\Debug\net6.0\Exsample007_Mangor.dll
+G:\C#\Examples\Exsample007_Mangor\obj\Debug\net6.0\refint\Exsample007_Mangor.dll
+G:\C#\Examples\Exsample007_Mangor\obj\Debug\net6.0\Exsample007_Mangor.pdb
+G:\C#\Examples\Exsample007_Mangor\obj\Debug\net6.0\Exsample007_Mangor.genruntimeconfig.cache
+G:\C#\Examples\Exsample007_Mangor\obj\Debug\net6.0\ref\Exsample007_Mangor.dll
