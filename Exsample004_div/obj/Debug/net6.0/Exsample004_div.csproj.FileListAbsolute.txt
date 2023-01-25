@@ -1,0 +1,15 @@
+G:\C#\Examples\Exsample004_div\bin\Debug\net6.0\Exsample004_div.exe
+G:\C#\Examples\Exsample004_div\bin\Debug\net6.0\Exsample004_div.deps.json
+G:\C#\Examples\Exsample004_div\bin\Debug\net6.0\Exsample004_div.runtimeconfig.json
+G:\C#\Examples\Exsample004_div\bin\Debug\net6.0\Exsample004_div.dll
+G:\C#\Examples\Exsample004_div\bin\Debug\net6.0\Exsample004_div.pdb
+G:\C#\Examples\Exsample004_div\obj\Debug\net6.0\Exsample004_div.csproj.AssemblyReference.cache
+G:\C#\Examples\Exsample004_div\obj\Debug\net6.0\Exsample004_div.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\Examples\Exsample004_div\obj\Debug\net6.0\Exsample004_div.AssemblyInfoInputs.cache
+G:\C#\Examples\Exsample004_div\obj\Debug\net6.0\Exsample004_div.AssemblyInfo.cs
+G:\C#\Examples\Exsample004_div\obj\Debug\net6.0\Exsample004_div.csproj.CoreCompileInputs.cache
+G:\C#\Examples\Exsample004_div\obj\Debug\net6.0\Exsample004_div.dll
+G:\C#\Examples\Exsample004_div\obj\Debug\net6.0\refint\Exsample004_div.dll
+G:\C#\Examples\Exsample004_div\obj\Debug\net6.0\Exsample004_div.pdb
+G:\C#\Examples\Exsample004_div\obj\Debug\net6.0\Exsample004_div.genruntimeconfig.cache
+G:\C#\Examples\Exsample004_div\obj\Debug\net6.0\ref\Exsample004_div.dll
