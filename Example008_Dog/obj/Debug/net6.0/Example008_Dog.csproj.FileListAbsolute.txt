@@ -1,0 +1,15 @@
+G:\C#\Examples\Example008_Dog\obj\Debug\net6.0\Example008_Dog.csproj.AssemblyReference.cache
+G:\C#\Examples\Example008_Dog\obj\Debug\net6.0\Example008_Dog.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\Examples\Example008_Dog\obj\Debug\net6.0\Example008_Dog.AssemblyInfoInputs.cache
+G:\C#\Examples\Example008_Dog\obj\Debug\net6.0\Example008_Dog.AssemblyInfo.cs
+G:\C#\Examples\Example008_Dog\obj\Debug\net6.0\Example008_Dog.csproj.CoreCompileInputs.cache
+G:\C#\Examples\Example008_Dog\bin\Debug\net6.0\Example008_Dog.exe
+G:\C#\Examples\Example008_Dog\bin\Debug\net6.0\Example008_Dog.deps.json
+G:\C#\Examples\Example008_Dog\bin\Debug\net6.0\Example008_Dog.runtimeconfig.json
+G:\C#\Examples\Example008_Dog\bin\Debug\net6.0\Example008_Dog.dll
+G:\C#\Examples\Example008_Dog\bin\Debug\net6.0\Example008_Dog.pdb
+G:\C#\Examples\Example008_Dog\obj\Debug\net6.0\Example008_Dog.dll
+G:\C#\Examples\Example008_Dog\obj\Debug\net6.0\refint\Example008_Dog.dll
+G:\C#\Examples\Example008_Dog\obj\Debug\net6.0\Example008_Dog.pdb
+G:\C#\Examples\Example008_Dog\obj\Debug\net6.0\Example008_Dog.genruntimeconfig.cache
+G:\C#\Examples\Example008_Dog\obj\Debug\net6.0\ref\Example008_Dog.dll
