@@ -1,0 +1,15 @@
+G:\C#\Examples\Examples0092_IntoArray\obj\Debug\net6.0\Examples0092_IntoArray.csproj.AssemblyReference.cache
+G:\C#\Examples\Examples0092_IntoArray\obj\Debug\net6.0\Examples0092_IntoArray.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\Examples\Examples0092_IntoArray\obj\Debug\net6.0\Examples0092_IntoArray.AssemblyInfoInputs.cache
+G:\C#\Examples\Examples0092_IntoArray\obj\Debug\net6.0\Examples0092_IntoArray.AssemblyInfo.cs
+G:\C#\Examples\Examples0092_IntoArray\obj\Debug\net6.0\Examples0092_IntoArray.csproj.CoreCompileInputs.cache
+G:\C#\Examples\Examples0092_IntoArray\bin\Debug\net6.0\Examples0092_IntoArray.exe
+G:\C#\Examples\Examples0092_IntoArray\bin\Debug\net6.0\Examples0092_IntoArray.deps.json
+G:\C#\Examples\Examples0092_IntoArray\bin\Debug\net6.0\Examples0092_IntoArray.runtimeconfig.json
+G:\C#\Examples\Examples0092_IntoArray\bin\Debug\net6.0\Examples0092_IntoArray.dll
+G:\C#\Examples\Examples0092_IntoArray\bin\Debug\net6.0\Examples0092_IntoArray.pdb
+G:\C#\Examples\Examples0092_IntoArray\obj\Debug\net6.0\Examples0092_IntoArray.dll
+G:\C#\Examples\Examples0092_IntoArray\obj\Debug\net6.0\refint\Examples0092_IntoArray.dll
+G:\C#\Examples\Examples0092_IntoArray\obj\Debug\net6.0\Examples0092_IntoArray.pdb
+G:\C#\Examples\Examples0092_IntoArray\obj\Debug\net6.0\Examples0092_IntoArray.genruntimeconfig.cache
+G:\C#\Examples\Examples0092_IntoArray\obj\Debug\net6.0\ref\Examples0092_IntoArray.dll

@@ -1,0 +1,15 @@
+G:\C#\Examples\Examples0081_Intro Method\obj\Debug\net6.0\Examples0081_Intro Method.csproj.AssemblyReference.cache
+G:\C#\Examples\Examples0081_Intro Method\obj\Debug\net6.0\Examples0081_Intro Method.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\Examples\Examples0081_Intro Method\obj\Debug\net6.0\Examples0081_Intro Method.AssemblyInfoInputs.cache
+G:\C#\Examples\Examples0081_Intro Method\obj\Debug\net6.0\Examples0081_Intro Method.AssemblyInfo.cs
+G:\C#\Examples\Examples0081_Intro Method\obj\Debug\net6.0\Examples0081_Intro Method.csproj.CoreCompileInputs.cache
+G:\C#\Examples\Examples0081_Intro Method\bin\Debug\net6.0\Examples0081_Intro Method.exe
+G:\C#\Examples\Examples0081_Intro Method\bin\Debug\net6.0\Examples0081_Intro Method.deps.json
+G:\C#\Examples\Examples0081_Intro Method\bin\Debug\net6.0\Examples0081_Intro Method.runtimeconfig.json
+G:\C#\Examples\Examples0081_Intro Method\bin\Debug\net6.0\Examples0081_Intro Method.dll
+G:\C#\Examples\Examples0081_Intro Method\bin\Debug\net6.0\Examples0081_Intro Method.pdb
+G:\C#\Examples\Examples0081_Intro Method\obj\Debug\net6.0\Examples0081_Intro Method.dll
+G:\C#\Examples\Examples0081_Intro Method\obj\Debug\net6.0\refint\Examples0081_Intro Method.dll
+G:\C#\Examples\Examples0081_Intro Method\obj\Debug\net6.0\Examples0081_Intro Method.pdb
+G:\C#\Examples\Examples0081_Intro Method\obj\Debug\net6.0\Examples0081_Intro Method.genruntimeconfig.cache
+G:\C#\Examples\Examples0081_Intro Method\obj\Debug\net6.0\ref\Examples0081_Intro Method.dll
