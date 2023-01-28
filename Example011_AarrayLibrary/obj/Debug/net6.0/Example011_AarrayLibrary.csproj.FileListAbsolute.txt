@@ -1,0 +1,15 @@
+G:\C#\Examples\Example011_AarrayLibrary\obj\Debug\net6.0\Example011_AarrayLibrary.csproj.AssemblyReference.cache
+G:\C#\Examples\Example011_AarrayLibrary\obj\Debug\net6.0\Example011_AarrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\Examples\Example011_AarrayLibrary\obj\Debug\net6.0\Example011_AarrayLibrary.AssemblyInfoInputs.cache
+G:\C#\Examples\Example011_AarrayLibrary\obj\Debug\net6.0\Example011_AarrayLibrary.AssemblyInfo.cs
+G:\C#\Examples\Example011_AarrayLibrary\obj\Debug\net6.0\Example011_AarrayLibrary.csproj.CoreCompileInputs.cache
+G:\C#\Examples\Example011_AarrayLibrary\bin\Debug\net6.0\Example011_AarrayLibrary.exe
+G:\C#\Examples\Example011_AarrayLibrary\bin\Debug\net6.0\Example011_AarrayLibrary.deps.json
+G:\C#\Examples\Example011_AarrayLibrary\bin\Debug\net6.0\Example011_AarrayLibrary.runtimeconfig.json
+G:\C#\Examples\Example011_AarrayLibrary\bin\Debug\net6.0\Example011_AarrayLibrary.dll
+G:\C#\Examples\Example011_AarrayLibrary\bin\Debug\net6.0\Example011_AarrayLibrary.pdb
+G:\C#\Examples\Example011_AarrayLibrary\obj\Debug\net6.0\Example011_AarrayLibrary.dll
+G:\C#\Examples\Example011_AarrayLibrary\obj\Debug\net6.0\refint\Example011_AarrayLibrary.dll
+G:\C#\Examples\Example011_AarrayLibrary\obj\Debug\net6.0\Example011_AarrayLibrary.pdb
+G:\C#\Examples\Example011_AarrayLibrary\obj\Debug\net6.0\Example011_AarrayLibrary.genruntimeconfig.cache
+G:\C#\Examples\Example011_AarrayLibrary\obj\Debug\net6.0\ref\Example011_AarrayLibrary.dll
